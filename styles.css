@@ -60,6 +60,7 @@ body {
   justify-content: space-between;
   align-items: center;
   padding: 1rem;
+  /* Not working yet needs to be fixed */
   box-shadow: 0px 60px 108px -29px rgba(117, 117, 117, 1);
 }
 
